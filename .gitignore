@@ -1,0 +1,17 @@
+# Binários compilados
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+api
+
+# Arquivos de IDE e SO
+.vscode/
+.idea/
+*.DS_Store
+Thumbs.db
+
+# Logs e ambientes
+*.log
+.env
